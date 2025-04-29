@@ -360,10 +360,10 @@
     </integer-array>
 
     <!-- Minimum color temperature, in Kelvin, supported by Night display. -->
-    <integer name="config_nightDisplayColorTemperatureMin">1500</integer>
+    <integer name="config_nightDisplayColorTemperatureMin">2500</integer>
 
     <!-- Maximum color temperature, in Kelvin, supported by Night display. -->
-    <integer name="config_nightDisplayColorTemperatureMax">5000</integer>
+    <integer name="config_nightDisplayColorTemperatureMax">6000</integer>
 
     <!-- Night display color temperature calibration -->
     <string-array name="config_nightDisplayColorTemperatureCoefficients">
